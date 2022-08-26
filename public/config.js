@@ -2,7 +2,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '云生站点监测',
+  SiteName: 'Ellnever站点监测',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -22,15 +22,15 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://tjys.tk'
+      url: 'https://ellnever.eu.org'
     },
     {
       text: '博客',
-      url: 'https://blog.qikaile.tk'
+      url: ''
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/qikaile/uptime-status'
+      url: 'https://github.com/ellnever'
     },
   ],
 };
